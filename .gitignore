@@ -1,3 +1,6 @@
 *.apk
 .DS_Store
-
+androcube/bin
+androcube/gen
+androcubetest/gen
+androcubetest/bin
